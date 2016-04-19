@@ -1,0 +1,28 @@
+name: Spaciousness
+favicon: null
+layout_spectrum: 0.3815053266007453
+typography_spectrum: 0.6098623287398368
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#9D2D3C'
+    - '#DDE4DD'
+    - '#BCAB47'
+    - '#6B574B'
+    - '#160600'
+  brandStrength: 0.6648017256520689
+  lightness: 0.42022281768731773
+  saturation: 0.6015061938669533
+  rhythmicContrast: 0.18702525086700916
+purpose: []
